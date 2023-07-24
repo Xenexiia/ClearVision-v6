@@ -34,7 +34,7 @@
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   --text-normal: rgb(220, 221, 222); /* color of default discord text */
   --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
-  --channels-width: 240px; /* channel list width (240px for Discord default) [default: 220px] */
+  --channels-width: 280px; /* channel list width (240px for Discord default) [default: 220px] */
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
@@ -56,7 +56,7 @@
   /* HOME BUTTON ICON */
   --home-icon: url(https://cdn.discordapp.com/attachments/668882968369954816/1124758197203386408/ice-ice-baby.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
+  --home-size: 45px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
